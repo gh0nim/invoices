@@ -1,0 +1,6 @@
+{
+    "php.version": "7.3",
+    "intelephense.diagnostics.undefinedFunctions": true,
+    "intelephense.diagnostics.undefinedMethods": true,
+    "files.autoSave": "onWindowChange"
+}
